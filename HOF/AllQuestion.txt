@@ -1,0 +1,46 @@
+1. Map Function:
+
+let arr=[1,2,3,4,5];
+let arr=["Virat", "Dhoni", "Rohit", "Bumrah"];
+
+2. ForEach Function:
+
+let arr=["Virat", "Dhoni", "Rohit", "Bumrah"];
+
+3. filter:
+
+let arr=[1,2,3,4,5];
+let arr=["Virat", "Dhoni", "Rohit", "Bumrah"];
+
+
+4. Reduce Function:
+
+let arr=[1,2,3,4,5];
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+1.  Find the sum which are odd.
+let arr=[1,2,3,4,5,6,7,8];
+
+
+2. print the name who is from India
+
+let users = [
+  { firstName: "Suman", lastName: "Saurav", place: "India" },
+  { firstName: "Ram", lastName: "Kumar", place: "India" },
+  { firstName: "Wilson", lastName: "Victor", place: "USA" },
+  { firstName: "John", lastName: "Michael", place: "Australia" },
+];
+
+
+1. print the sum of length, whose length is odd.
+
+let arr=["John", "Victor", "Wilson", "Ram", "Saurav", "Suman"];
+
+
+
+
+
+
+
+
