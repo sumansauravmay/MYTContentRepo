@@ -4,7 +4,7 @@
 let arr=[1,2,3,4,5];
 
 
-//first letter and last letter if players
+//first letter and last letter of players
 let arr=["Virat", "Dhoni", "Rohit", "Bumrah"];
 
 2. ForEach Function:
@@ -12,7 +12,7 @@ let arr=["Virat", "Dhoni", "Rohit", "Bumrah"];
 //find multiple of 2 of each value in the array
 let arr=[1,2,3,4,5];
 
-//first letter and last letter if players
+//first letter and last letter of players
 //find the players in the array using ForEach.
 let arr=["Virat", "Dhoni", "Rohit", "Bumrah"];
 
