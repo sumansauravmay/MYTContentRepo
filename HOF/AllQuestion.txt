@@ -1,26 +1,50 @@
 1. Map Function:
 
+//find multiple of 2 of each value in the array
 let arr=[1,2,3,4,5];
+
+
+//first letter and last letter if players
 let arr=["Virat", "Dhoni", "Rohit", "Bumrah"];
 
 2. ForEach Function:
 
+//find multiple of 2 of each value in the array
+let arr=[1,2,3,4,5];
+
+//first letter and last letter if players
+//find the players in the array using ForEach.
 let arr=["Virat", "Dhoni", "Rohit", "Bumrah"];
 
 3. filter:
-
+//find odd numbers.
+//find even numbers.
 let arr=[1,2,3,4,5];
+
+//find players whose first letter is either V or D
+//find the player whose first letter is not R
 let arr=["Virat", "Dhoni", "Rohit", "Bumrah"];
 
 
 4. Reduce Function:
-
+//find the sum of all value
+//find the sum of twice the value of each value
 let arr=[1,2,3,4,5];
 
 
 --------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 1.  Find the sum which are odd.
+
 let arr=[1,2,3,4,5,6,7,8];
+
+
+
+2. print the sum of length, whose length is odd.
+
+let arr=["John", "Victor", "Wilson", "Ram", "Saurav", "Suman"];
 
 
 2. print the name who is from India
@@ -31,11 +55,6 @@ let users = [
   { firstName: "Wilson", lastName: "Victor", place: "USA" },
   { firstName: "John", lastName: "Michael", place: "Australia" },
 ];
-
-
-1. print the sum of length, whose length is odd.
-
-let arr=["John", "Victor", "Wilson", "Ram", "Saurav", "Suman"];
 
 
 
